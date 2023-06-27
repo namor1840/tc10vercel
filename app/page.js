@@ -7,6 +7,7 @@ export default function Home() {
       <h1>Roman Franco</h1>
 
       <img src='cepillo.jpg' alt='Foto de mi Volkswagen' width={640} height={480}/>
+      <h2>Volkswagen Beetle o Escarabajo 1975</h2>
     </main>
   )
 }
